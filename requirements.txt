@@ -1,0 +1,12 @@
+functions-framework==3.*
+google-cloud-storage
+google-cloud-pubsub
+ffmpeg
+lxml
+webvtt-py
+Flask
+gunicorn
+requests
+google-cloud-video-transcoder
+google-cloud-videointelligence
+
