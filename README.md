@@ -29,7 +29,21 @@ Automated video ingestion, multi-resolution transcoding, multilingual caption ge
 </p>
 
 ---
+# Metric
+<div align="center">
 
+| Metric | Value |
+|--------|------:|
+| Video Profiles | 3 (SD, HD, UHD) |
+| Subtitle Languages | 6 |
+| Generated Assets | 12+ |
+| Architecture | Event-Driven |
+| Cloud Services | 8+ |
+| Deployment | Serverless |
+
+</div>
+
+---
 # Overview
 
 Cloud Video Processing Pipeline is an event-driven cloud-native platform that automates the complete lifecycle of video processing on Google Cloud Platform.
