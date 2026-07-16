@@ -614,8 +614,9 @@ See the LICENSE file for additional details.
 
 Cloud Software Engineer
 
-- LinkedIn: https://www.linkedin.com/in/arielle-60178832a/
-- GitHub: https://github.com/ArielleSedoine
+- **Email:** notouom777@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/arielle-60178832a/
+- **Website:** https://arielle-sedoineapp-vosyn2.vercel.app/
 
 ---
 
